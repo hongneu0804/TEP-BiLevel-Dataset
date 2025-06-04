@@ -1,4 +1,5 @@
 ## File Description
+Shengbo Hong, State Key Laboratory of Synthetical Automation for Process Industries, Northeastern University, China
 
 This repository contains data and resources related to the Tennessee Eastman Process (TEP) public simulation platform and bi-level decision-making research. The contents are organized as follows:
 
