@@ -1,5 +1,10 @@
 ## File Description
-Shengbo Hong, State Key Laboratory of Synthetical Automation for Process Industries, Northeastern University, China
+Names of authors:
+Shengbo Hong1, Wen Yu2, Tianyou Chai1*
+
+Affiliations and addresses:
+1. State Key Laboratory of Synthetical Automation for Process Industries, Northeastern University, Shenyang 110819, China.
+2. Departamento de Control Automático, Centro de Investigación y de Estudios Avanzados, Instituto Politécnico Nacional, Mexico City 07360, Mexico.
 
 This repository contains data and resources related to the Tennessee Eastman Process (TEP) public simulation platform and bi-level decision-making research. The contents are organized as follows:
 
